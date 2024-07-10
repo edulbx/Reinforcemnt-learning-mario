@@ -1,2 +1,2 @@
-# Reinforcemnt-learning-mario
+# reinforcement-learning-mario
  
