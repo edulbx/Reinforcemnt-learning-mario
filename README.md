@@ -1,4 +1,5 @@
 # Reinforcement-Learning-Mario
+........ ![Mario](https://github.com/user-attachments/assets/9fe4cd5f-95bd-429f-a9fc-08a23044ae0e)![Mario](https://github.com/user-attachments/assets/9fe4cd5f-95bd-429f-a9fc-08a23044ae0e)
 
 This is a simple codebase designed for beginners to understand the basics of Reinforcement Learning using GYM.
 
